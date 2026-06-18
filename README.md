@@ -7,8 +7,6 @@ Businesses often serve customers with different purchasing behaviors and financi
 
 The objective of this project is to segment customers into meaningful groups based on their annual income and spending behavior using the K-Means Clustering algorithm. These customer segments can help businesses develop targeted marketing campaigns, improve customer retention, and optimize resource allocation.
 
----
-
 ## Dataset Details
 
 ### Dataset Name
@@ -33,8 +31,6 @@ The dataset contains demographic and spending information for customers visiting
 - Records: 200
 - Features: 5
 
----
-
 ## Project Objectives
 
 - Understand customer demographics and spending patterns.
@@ -42,8 +38,6 @@ The dataset contains demographic and spending information for customers visiting
 - Apply machine learning for customer grouping.
 - Analyze segment characteristics.
 - Generate business recommendations based on customer behavior.
-
----
 
 ## Technologies Used
 
@@ -55,8 +49,6 @@ The dataset contains demographic and spending information for customers visiting
 - Scikit-Learn
 - Google Colab
 - GitHub
-
----
 
 ## Approach
 
@@ -111,8 +103,6 @@ Analyzed customer segments based on:
 - Average Spending Score
 - Segment Distribution
 
----
-
 ## Results
 
 ### Customer Segments Identified
@@ -137,8 +127,6 @@ Analyzed customer segments based on:
 - Low income
 - Low spending behavior
 
----
-
 ## Key Findings
 
 1. Five distinct customer groups were successfully identified.
@@ -146,8 +134,6 @@ Analyzed customer segments based on:
 3. Wealthy but Conservative Customers present opportunities for targeted marketing.
 4. Customer spending behavior varies significantly across income groups.
 5. Customer segmentation enables personalized business strategies and improved customer engagement.
-
----
 
 ## Business Recommendations
 
@@ -157,15 +143,11 @@ Analyzed customer segments based on:
 - Develop cost-effective offers for Budget Customers.
 - Continuously monitor customer behavior for improved segmentation.
 
----
-
 ## Conclusion
 
 This project successfully applied K-Means Clustering to identify meaningful customer segments based on income and spending behavior.
 
 The resulting customer groups provide actionable insights that can help businesses improve marketing effectiveness, increase customer satisfaction, and enhance profitability through data-driven decision-making.
-
----
 
 ## Future Scope
 
